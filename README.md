@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Asadbek and I'm a Software Developer, from Uzbekistan</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨I'm a frontend developer who enjoys building modern, responsive, and user-friendly interfaces. I work mainly with HTML, CSS, SCSS, and JavaScript, and I’m constantly improving my skills by creating real projects.</p>
 
 ###
 
